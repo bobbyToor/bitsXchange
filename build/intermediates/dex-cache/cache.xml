@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projects\android\BitsXchange\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a9f9e8a810ce36b49cdef520e3968be905c10a2a.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\BitsXchange\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\classes-63e29ce15e1d961c0c09c71342ef45da04ff880f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deepak\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1a484478de490ea4dec2f29aca00f14ad5561b66.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\BitsXchange\app\libs\NineOldAndroid-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\NineOldAndroid-2.4.0-6d0ecb976bc0d98dbdad98711a18b1fc3358adc6.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\BitsXchange\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\classes-9d30e0bce97bd18b1c53a6a7b3c901de363062ec.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\BitsXchange\app\libs\AndroidEasingFunctions-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ae609e93bcbe4988aa371ab615b7abb43e9399bf">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\AndroidEasingFunctions-1.0.0-68165cbd806c39f3d9e226fec191c7d4c4abd699.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\BitsXchange\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4-13e71fbd749aa7046d0661f6346fb720099193fe.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\BitsXchange\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\classes-e73565e9daeb5ff929a0585e1a072eaeec9d8929.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\BitsXchange\app\libs\picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\picasso-2.5.0-2340984a86d6b018261f2459954565f1a79bea1a.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\BitsXchange\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\classes-e2b2cf0cf8d78360a658b7c080009937e8de05b4.jar" />
+    </item>
+    <item
+        jar="D:\Projects\android\BitsXchange\app\libs\AndroidViewAnimations-1.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d8db345547f7a025130d1622f2608ec68e761641">
+        <dex dex="D:\Projects\android\BitsXchange\app\build\intermediates\pre-dexed\debug\AndroidViewAnimations-1.1.3-f072034748eb6b11bae26130ffece8d9b8dad1a7.jar" />
+    </item>
+
+</items>

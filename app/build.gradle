@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.example.deepak.bitsxchange"
+        minSdkVersion 15
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile files('libs/android-async-http-1.4.4.jar')
+    compile files('libs/picasso-2.5.0.jar')
+    compile files('libs/AndroidEasingFunctions-1.0.0.jar')
+    compile files('libs/AndroidViewAnimations-1.1.3.jar')
+    compile files('libs/NineOldAndroid-2.4.0.jar')
+    compile 'com.android.support:recyclerview-v7:21.0.+'
+    compile 'com.android.support:cardview-v7:21.0.3'
+}
